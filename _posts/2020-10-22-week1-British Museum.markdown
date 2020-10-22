@@ -17,7 +17,12 @@ categories: jekyll update
         </ul>
     </nav>
     <body>
-        
+       ---
+layout: post
+title:  "week1-British-Museum"
+date:   2020-10-22 10:49:34 +0800
+categories: jekyll update
+--- 
         <!-- Add your blog post BELOW here -->
         <h1>Week1:British Museum</h1>
         <h2>When and why this Archive created?</h2>
