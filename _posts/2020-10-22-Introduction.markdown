@@ -1,0 +1,66 @@
+---
+layout: post
+title:  "week1-British-Museum"
+date:   2020-10-22 10:49:34 +0800
+categories: jekyll update
+---
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Introduction</title>
+    </head>
+    <nav>
+        <ul>
+            <li><a href="about.html">about</a></li>
+            <li><a href="index.html">index</a></li>
+            <li><a href="wek1-bm">Wek1-British museum</a></li>
+            <li><a href="week2-Googlearts"></a></li>
+        </ul>
+    </nav>
+    <body>
+        <h1><Strong>Introduction</Strong></h1>
+        <p>Hello, everyone!!!
+
+            I’m <a href="lpJoIKwogerBNtzBmQs3WKnVpYmz.jpg">Zhuoman Li ( you can call me Gemma) click to see my pic</a>
+            <br> 
+            and I majored in the specialty of 
+            Regional Development in Rural Area in China Agriculture University.
+             I chose to take classes remotely in the first semester, so now I am watching lectures 
+             at home in Chongqing ( a southwest city built on mountains in China)</p>
+        <h2>My favorite museums</h2>    
+        <p> There are many museums that amaze me. For instance, <a href=http://www.cqbhl.com.cn/Info_Photos/vr720.aspwhite target=/blank> 
+            <b>the underwater museum of crane ridge</b></a>in Chongqing, people can 
+            view the cultural relics Which are submerged by the construction of the Three gorges
+             dam. And I also like <b>Getty Center</b> in Los angles which collected a number of beautiful 
+             and famous paintings.
+             ( They also have a brilliant <a href=https://www.getty.edu/publications/virtuallibrary/?fbclid=IwAR0vM8uhvHEpsR0rEDm9A7NjCA5KP54QA9h3fnnwmlvz1h4ojVOQOeUBPYw target=/blank>online free library:)</a></p>
+        <h2>My favorite website</h2>   
+        <p> As for website, I want to recommend <a href=http://fff.cmiscm.com/#!/main target=/blank title="interaction animation">this</a> to you.
+            There are many funny interactive animations in the website which makes me feel healing especially
+             with the big screen. And this website is 
+             about <a href=https://www.oldbookillustrations.comold target=/blank>books’ illustration</a>, all the pictures are sooooo beautiful.
+            
+            <br><br>
+            As a Generation Z, I get information from different web almost every day,
+             so it’s definitely fun to creat my own website. All in all, 
+             I am soooo excited to take this course with you guys from diverse background.
+             I am looking forward to start learning and meet U all. ^-^</p>
+        <h1>my top 5 musuems</h1>
+           <ol>
+               <li><a href=https://www.dpm.org.cn/Home.html target=/blank>Palace Museum</a></li>
+               <li><a href=http://www.cqbhl.com.cn/Info_Photos/vr720.aspwhite target=/blank>The underwater museum of crane ridge</a></li>
+               <li><a href=https://www.getty.edu target=/blank>Getty Center</a></li>
+               <li><a href=https://www.moma.org target=/blank>MOMA</a></li>
+               <li><a href=https://www.cupnoodles-museum.jp/en/osaka_ikeda target=/blank>Cupnoodles Museum</a></li>
+           </ol>  
+            
+        
+    </body>
+
+
+
+
+
+
+
+</html>
