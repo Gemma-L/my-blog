@@ -5,8 +5,7 @@ date:   2020-10-22 10:49:34 +0800
 categories: jekyll update
 ---
 
- <!-- Add your blog post BELOW here -->
- <h1>Week1:British Museum</h1>
+<h1>Week1:British Museum</h1>
 <h2>When and why this Archive created?</h2>
 <p>:As the first public national museum in the World, The British Museum eastablished in 1753 and open to the public in 1759.It documents the story of human cultures from the beginning to the present by many means. The reason it was originally eastablished is lie in the will of Sir Hans Sloane.</p>
 <h2>Where did the objects from?</h2>

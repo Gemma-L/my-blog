@@ -8,24 +8,20 @@ categories: jekyll update
 
 
 <title>Introduction</title>
-    </head>
-    <nav>
-        <ul>
-            <li><a href="about.html">about</a></li>
-            <li><a href="index.html">index</a></li>
-            <li><a href="wek1-bm">Wek1-British museum</a></li>
-            <li><a href="week2-Googlearts"></a></li>
-        </ul>
-    </nav>
-    <body>
-        <h1><Strong>Introduction</Strong></h1>
-        <p>Hello, everyone!!!
-
-            I’m <a href="lpJoIKwogerBNtzBmQs3WKnVpYmz.jpg">Zhuoman Li ( you can call me Gemma) click to see my pic</a>
-            <br> 
-            and I majored in the specialty of 
-            Regional Development in Rural Area in China Agriculture University.
-             I chose to take classes remotely in the first semester, so now I am watching lectures 
+    
+<nav>
+    <ul>
+        <li><a href="about.html">about</a></li>
+        <li><a href="index.html">index</a></li>
+        <li><a href="wek1-bm">Wek1-British museum</a></li>
+        <li><a href="week2-Googlearts"></a></li>
+    </ul>
+</nav>
+<body>
+    <h1><Strong>Introduction</Strong></h1>
+    <p>Hello, everyone!!!
+    I’m <a href="lpJoIKwogerBNtzBmQs3WKnVpYmz.jpg">Zhuoman Li ( you can call me Gemma) click to see my pic</a>
+    <br> and I majored in the specialty of Regional Development in Rural Area in China Agriculture University.I chose to take classes remotely in the first semester, so now I am watching lectures 
              at home in Chongqing ( a southwest city built on mountains in China)</p>
         <h2>My favorite museums</h2>    
         <p> There are many museums that amaze me. For instance, <a href=http://www.cqbhl.com.cn/Info_Photos/vr720.aspwhite target=/blank> 
@@ -39,8 +35,7 @@ categories: jekyll update
             There are many funny interactive animations in the website which makes me feel healing especially
              with the big screen. And this website is 
              about <a href=https://www.oldbookillustrations.comold target=/blank>books’ illustration</a>, all the pictures are sooooo beautiful.
-            
-            <br><br>
+            <br>
             As a Generation Z, I get information from different web almost every day,
              so it’s definitely fun to creat my own website. All in all, 
              I am soooo excited to take this course with you guys from diverse background.
@@ -55,7 +50,7 @@ categories: jekyll update
            </ol>  
             
         
-    </body>
+</body>
 
 
 
@@ -63,4 +58,4 @@ categories: jekyll update
 
 
 
-</html>
+

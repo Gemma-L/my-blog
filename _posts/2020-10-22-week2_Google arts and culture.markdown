@@ -4,25 +4,24 @@ title:  "week2-Google arts and culture"
 date:   2020-10-22 10:49:34 +0800
 categories: jekyll update
 ---
- <head>
-        <title>week2: Google arts and culture</title>
-    </head>
-    <nav>
-        <ul>
+ 
+<title>week2: Google arts and culture</title>
+<nav>
+    <ul>
             <li><a href="about.html">about</a></li>
             <li><a href="index.html">index</a></li>
             <li><a href="wek1-bm">Wek1-British museum</a></li>
             <li><a href="week2-Googlearts"></a></li>
-        </ul>
-    </nav>
-    <body>
-      <h1>week2:google arts and culture</h1>
-      <p>As an online platform for the public to explore art works and cultural artifacts virtually, 
+    </ul>
+</nav>
+<body>
+    <h1>week2:google arts and culture</h1>
+    <p>As an online platform for the public to explore art works and cultural artifacts virtually, 
           <a href="https://artsandculture.google.com/" target="/blank">Google arts and Culture</a> cooperates with 
         a lot of museums and art institutions. In 2011, the initial stage of the platform, Google arts 
         culture is an innovative project out of google's employees' interests.In 2012, as the expansion
         of the project, 151 museums with more than 34000 artworks joined this project.
-        <br>
+    <br>
         In addition to browsing artworks online and visiting real museums virtually
         visitors can also create themed virtual museums dedicated to a specific painters or theme.
         Besides, there are also many interesting game projects on this webside, such as <a href="https://artsandculture.google.com/camera/art-filter" target="/blank">selfie filters</a> which
@@ -42,7 +41,7 @@ categories: jekyll update
         used by scholars. For instance, thanks to <strong>Google Street View 360</strong> and <strong>
         Clauss Rodeon VR Head Hd</strong>, people can have a microscope view on some piece of artworks.
         Besides, It also incorporates with other academic resources like <a href="http://scholar.google.com/">Google Scholar</a> 
-        <br>
+    <br>
         In general, I think Google Arts and culture is like a museum of museums. Thanks to Google’s technology and employee's innovation
         the cooperation with many archives and museums, this website offers people opportunities to explore 
         fantastic art worlds at home. These huge archives also take some copyright issues with Google, I am not familair
@@ -52,4 +51,4 @@ categories: jekyll update
         it is a fantastic platform which makes art accesible and better understand.  </p>  
     </body>
 
-</html>
+
