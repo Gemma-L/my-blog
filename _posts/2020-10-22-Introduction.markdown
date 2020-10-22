@@ -6,8 +6,8 @@ categories: jekyll update
 ---
 
 
-<head>
-        <title>Introduction</title>
+
+<title>Introduction</title>
     </head>
     <nav>
         <ul>
