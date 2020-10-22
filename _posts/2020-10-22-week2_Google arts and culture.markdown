@@ -4,8 +4,8 @@ title:  "week2-Google arts and culture"
 date:   2020-10-22 10:49:34 +0800
 categories: jekyll update
 ---
-<!DOCTYPE html>
-<html>
+
+
     <head>
         <title>week2: Google arts and culture</title>
     </head>
