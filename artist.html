@@ -1,8 +1,12 @@
 ---
 layout: page
-title: Artworks
+title: China artworks
 ---
-{% for art in site.artworks %}
-<h2>{{ art.artist }}: {{ art.title}} ({{ art.year }})</h2>
-<img src="{{ art.image }}" alt="{{ art.artist }}: {{ art.title}}">
+{% for artist in site.data.artists %}
+<h2> {{ artist.EnglishName}} ({{ artist.ChineseName }})</h2>
+<p>{{artist.Nationality}},{{artist.Gender}},{{artist.BirthYear}}---{{artist.DeathYear}}</p>
+{% for i in (1..3) %}
+<img src="/media/china-artworks/{{ artist.EnglishName | replace: " ", "_" }}_{{artist.ChineseName}}/{{ artist.EnglishName | replace: " ", "_" }}_0{{i}}.jpg/">
+  {{ i }}
+{% endfor %}
 {% endfor %}
